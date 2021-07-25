@@ -1,7 +1,7 @@
 import asyncio
 import websockets
 
-HOST = "192.168.2.7"
+HOST = "192.168.2.10"
 PORT = 8765
 DISCONNECT_MSG="!"
 
